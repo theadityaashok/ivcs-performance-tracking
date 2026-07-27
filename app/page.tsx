@@ -83,6 +83,10 @@ function StatCard({
 
 function RegionCard({ row }: { row: PerformanceRow }) {
   const progress = percentage(row.registrations, row.target);
+  const gauge = Math.min(progress, 100);
+  const chartBars = [0.44, 0.62, 0.54, 0.78, 0.68, 0.92].map(
+    (factor) => Math.max(12, Math.min(100, gauge * factor)),
+  );
   return (
     <article className="region-card">
       <div className="region-heading">
@@ -90,10 +94,26 @@ function RegionCard({ row }: { row: PerformanceRow }) {
           <span>Region</span>
           <h3>{row.name}</h3>
         </div>
-        <strong>{progress.toFixed(1)}%</strong>
+        <div
+          className="region-gauge"
+          style={{ "--progress": `${gauge}%` } as React.CSSProperties}
+          aria-label={`${progress.toFixed(1)} percent achieved`}
+        >
+          <strong>{progress.toFixed(1)}%</strong>
+        </div>
       </div>
-      <div className="region-progress">
-        <i style={{ width: `${Math.min(progress, 100)}%` }} />
+      <div className="region-chart-wrap">
+        <div className="region-mini-chart" aria-hidden="true">
+          {chartBars.map((height, index) => (
+            <span
+              key={index}
+              style={{ "--bar": `${height}%` } as React.CSSProperties}
+            />
+          ))}
+        </div>
+        <div className="region-progress">
+          <i style={{ width: `${gauge}%` }} />
+        </div>
       </div>
       <dl>
         <div>
@@ -286,7 +306,7 @@ export default function Home() {
         <div className="brand-mark" aria-hidden="true">M</div>
         <div className="brand-copy">
           <strong>Government of Meghalaya</strong>
-          <span>IVCS Performance Tracking</span>
+          <span>Cooperative Registration Tracking</span>
         </div>
         <div className="live-wrap">
           <span className={`live-dot ${data.stale ? "offline" : ""}`} />
@@ -302,7 +322,7 @@ export default function Home() {
         <div className="hero-orb hero-orb-two" aria-hidden="true" />
         <div>
           <p className="eyebrow">Integrated Village Cooperative Societies</p>
-          <h1>Target to achievement,<br />at every level.</h1>
+          <h1>Cooperative Registration Tracking</h1>
           <p className="hero-copy">
             Live registration performance across regions, districts, blocks
             and individual IVCS in Meghalaya.
@@ -550,7 +570,7 @@ export default function Home() {
       </section>
 
       <footer>
-        <span>IVCS Performance Tracking • Meghalaya</span>
+        <span>Cooperative Registration Tracking • Meghalaya</span>
         <span>Targets from regional IVCS workbook • Live API achievement</span>
       </footer>
     </main>
