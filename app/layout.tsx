@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IVCS Performance Tracking | Meghalaya",
+  title: "Cooperative Registration Tracking | Meghalaya",
   description:
-    "Live district, block and IVCS-wise registration performance across Meghalaya.",
+    "Live cooperative registration performance across Meghalaya by region, district, block and IVCS.",
   other: {
     "codex-preview": "development",
   },
