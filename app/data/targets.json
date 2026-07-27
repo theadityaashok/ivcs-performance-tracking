@@ -1,0 +1,2543 @@
+[
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Anchengbok IVCS Ltd",
+    "target": 114
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Baringgre Wadro IVCS Ltd",
+    "target": 542
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Chitil Apal IVCS Ltd",
+    "target": 324
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Dambo Rongdeng IVCS Ltd",
+    "target": 275
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Darugre Chikama IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Gabil Daningka IVCS Ltd",
+    "target": 381
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Gabil Rongmil IVCS Ltd",
+    "target": 325
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Haslong Nagimaram IVCS Ltd",
+    "target": 301
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Mangsang Bamil IVCS Ltd",
+    "target": 174
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Millawe Songma IVCS Ltd",
+    "target": 523
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Nongchram IVCS Ltd (EGH)",
+    "target": 248
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Ronga Agal Nengkram Imthra IVCS Ltd",
+    "target": 340
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Rongjeng Reserve Jakusan IVCS Ltd",
+    "target": 283
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Silchang Dimrimbri Palwang Ading IVCS Ltd",
+    "target": 269
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Sundare IVCS Ltd.(EGH)",
+    "target": 134
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Upper Nongbak Apal IVCS Ltd",
+    "target": 347
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Dambo Rongjeng",
+    "ivcs": "Werambri IVCS Ltd",
+    "target": 370
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Samanda",
+    "ivcs": "Dobetkolgre IVCS Ltd.",
+    "target": 155
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Samanda",
+    "ivcs": "Rongsak IVCS Ltd.",
+    "target": 236
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Samanda",
+    "ivcs": "Tongbolgre Green Hills IVCS Ltd.",
+    "target": 106
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Asil Dikagre IVCS Ltd",
+    "target": 352
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Barikgre IVCS Ltd",
+    "target": 148
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Bolmoram Adik Chibasal IVCS Ltd",
+    "target": 180
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Bolmoram Angkekol IVCS Ltd",
+    "target": 124
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Bone Watregre IVCS Ltd",
+    "target": 310
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Bonepa IVCS Ltd",
+    "target": 147
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Chikasin IVCS Ltd",
+    "target": 80
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Chram IVCS Ltd",
+    "target": 165
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Donrime IVCS Ltd",
+    "target": 250
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Gongrang IVCS Ltd",
+    "target": 266
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Jamge IVCS Ltd",
+    "target": 167
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Kosi IVCS Ltd",
+    "target": 214
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Napak IVCS Ltd",
+    "target": 453
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Rongbitchi IVCS Ltd",
+    "target": 233
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Tebil Bonegre IVCS Ltd",
+    "target": 155
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Tengsuram IVCS Ltd",
+    "target": 354
+  },
+  {
+    "region": "Garo Hills",
+    "district": "East Garo Hills",
+    "block": "Songsak",
+    "ivcs": "Upper Bolmoram IVCS Ltd",
+    "target": 211
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Adokgre",
+    "ivcs": "Dapolpara Local Development Association IVCS Ltd",
+    "target": 187
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Adokgre",
+    "ivcs": "Songchet Nangrime IVCS Ltd",
+    "target": 314
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Adokgre",
+    "ivcs": "Tinsimina IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Balkolgre IVCS Ltd",
+    "target": 43
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Dokua IVCS Ltd",
+    "target": 107
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Jiban IVCS Ltd",
+    "target": 289
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Korepara IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Kucholsan IVCS Ltd (NGH)",
+    "target": 276
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Bajengdoba",
+    "ivcs": "Pangchakram IVCS Ltd.",
+    "target": 230
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Bakrime IVCS Ltd (NGH)",
+    "target": 419
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Balgito IVCS Ltd",
+    "target": 350
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Chibasal IVCS Ltd (NGH)",
+    "target": 346
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Krimko IVCS Ltd (NGH)",
+    "target": 315
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Mendima IVCS Ltd",
+    "target": 401
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Nangrime IVCS Ltd (NGH)",
+    "target": 438
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Nehru IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Rajasimla Chokchimsa IVCS Ltd",
+    "target": 251
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Sengga IVCS Ltd",
+    "target": 350
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Sonaru IVCS Ltd",
+    "target": 403
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Songbri IVCS Ltd",
+    "target": 334
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Tangkamgipa IVCS Ltd",
+    "target": 286
+  },
+  {
+    "region": "Garo Hills",
+    "district": "North Garo Hills",
+    "block": "Kharkutta",
+    "ivcs": "Upper Kharkutta Four Brothers IVCS Ltd",
+    "target": 382
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Asokgre IVCS Ltd",
+    "target": 403
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Balkal Asim IVCS Ltd",
+    "target": 372
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Chibrenggre IVCS Ltd",
+    "target": 250
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Chigitchak IVCS Ltd",
+    "target": 383
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Choklokgittim IVCS Ltd",
+    "target": 342
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Dabit IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Dabram IVCS Ltd",
+    "target": 387
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Dasanggre IVCS Ltd",
+    "target": 449
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Denggaggre IVCS Ltd",
+    "target": 375
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Dorengo IVCS Ltd",
+    "target": 429
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Dosogre IVCS Ltd",
+    "target": 301
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Eringgre IVCS Ltd",
+    "target": 353
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Gangga IVCS Ltd",
+    "target": 450
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Gatabil IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Katchi-Garantai IVCS Ltd",
+    "target": 472
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Baghmara",
+    "ivcs": "Nongalbibra IVCS Ltd.",
+    "target": 367
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Allagre IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Balwatgre Multipurpose Cooperative Society Ltd",
+    "target": 323
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Bolchidamgre IVCS Ltd",
+    "target": 500
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Budugre IVCS Ltd",
+    "target": 281
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Dagal Songital IVCS Ltd",
+    "target": 212
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Damikchigre IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Dumindigre IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Durabanda Chambugong IVCS Ltd",
+    "target": 292
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Jetragre IVCS Ltd",
+    "target": 98
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Karijoragre IVCS Ltd.",
+    "target": 277
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Kenegre IVCS Ltd",
+    "target": 393
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Mibonpara IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Papa Songmong IVCS Ltd",
+    "target": 222
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Rampragre IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Ritimgital IVCS Ltd",
+    "target": 186
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Rongdi Bugai IVCS Ltd",
+    "target": 400
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Silki A'chak Chiring IVCS Ltd",
+    "target": 309
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Simkalanggre IVCS Ltd",
+    "target": 382
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Chokpot",
+    "ivcs": "Tangchaoe IVCS Ltd",
+    "target": 253
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Bamonbajra IVCS Ltd.",
+    "target": 156
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Bandapara Multipurpose Cooperative Society Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Dimagre IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Gasuapara Songmong IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Kangkarkona Livestock Cooperative Society Ltd",
+    "target": 280
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Megua Songma IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Gasuapara",
+    "ivcs": "Wachira Eco. Tourism Multipurpose Cooperative Society Ltd",
+    "target": 360
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Rongara",
+    "ivcs": "Dambuk Apal IVCS Ltd.",
+    "target": 97
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Rongara",
+    "ivcs": "Gaobari IVCS Ltd",
+    "target": 81
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Rongara",
+    "ivcs": "Mahadeo Farmer Producer Cooperative Society Ltd",
+    "target": 97
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South Garo Hills",
+    "block": "Rongara",
+    "ivcs": "Rewak IVCS Ltd",
+    "target": 97
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Betasing",
+    "ivcs": "Goera IVCS LTD",
+    "target": 190
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Damalgre IVCS Ltd.",
+    "target": 90
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Do'asil IVCS Ltd",
+    "target": 70
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Dream Four IVCS Ltd",
+    "target": 169
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Goramara IVCS Ltd.",
+    "target": 80
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Matalagre Chiripram IVCS Ltd.",
+    "target": 169
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Matrongkol IVCS Ltd.",
+    "target": 319
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Rerapara",
+    "ivcs": "Rongchadenggre IVCS Ltd.",
+    "target": 150
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "A'a Ki'tik IVCS Ltd",
+    "target": 153
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Babelpara IVCS Ltd",
+    "target": 236
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Baksapara IVCS Ltd",
+    "target": 75
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Bolchugre IVCS Ltd",
+    "target": 221
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Bollonggre B IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Bollonggre B1 IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Chapahati 1 IVCS Ltd",
+    "target": 206
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Dingampara IVCS Ltd",
+    "target": 350
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Domapara IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Hatibelpara IVCS Ltd",
+    "target": 199
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Hullukona IVCS Ltd",
+    "target": 99
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Kalaichar IVCS Ltd",
+    "target": 236
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Kawahagra IVCS Ltd",
+    "target": 221
+  },
+  {
+    "region": "Garo Hills",
+    "district": "South West Garo Hills",
+    "block": "Zikzak",
+    "ivcs": "Kuligre IVCS Ltd",
+    "target": 228
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Ajigre IVCS Ltd",
+    "target": 203
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Chandisila IVCS Ltd",
+    "target": 300
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Chenggal Dare IVCS Ltd",
+    "target": 360
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Chudoang IVCS Ltd",
+    "target": 385
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Dallanggre IVCS Ltd",
+    "target": 365
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Dobakol IVCS Ltd.",
+    "target": 50
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Dokramgre IVCS Ltd",
+    "target": 158
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Grimjong IVCS Ltd",
+    "target": 353
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Jarambong IVCS Ltd",
+    "target": 334
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Kawak Dare IVCS Ltd",
+    "target": 365
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Polpola IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Pringprang IVCS Ltd",
+    "target": 397
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Salak IVCS Ltd",
+    "target": 395
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Salcharam IVCS Ltd",
+    "target": 369
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dadenggre",
+    "ivcs": "Songadinggre IVCS Ltd",
+    "target": 380
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Bandra IVCS Ltd.",
+    "target": 118
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Border IVCS Ltd.",
+    "target": 134
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Bugi IVCS Ltd.",
+    "target": 564
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Mikkasal IVCS Ltd",
+    "target": 251
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Norang Bogai IVCS Ltd.",
+    "target": 129
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Dalu",
+    "ivcs": "Thallang IVCS Ltd",
+    "target": 314
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Bakrimesa IVCS Ltd",
+    "target": 119
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Hazarika IVCS Ltd",
+    "target": 150
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Jakusan Integrated Village Co-operative Society Ltd",
+    "target": 104
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Jakusan IVCS Ltd (Demdema,WGH)",
+    "target": 125
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Khetadawa Multipurpose Cooperative Society Ltd",
+    "target": 200
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Khurang IVCS Ltd",
+    "target": 306
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Matgrik IVCS Ltd",
+    "target": 106
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Demdema",
+    "ivcs": "Muskan IVCS Ltd",
+    "target": 609
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Gambegre",
+    "ivcs": "Dimchrang IVCS Ltd",
+    "target": 131
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Gambegre",
+    "ivcs": "Songsni Bakrime IVCS Ltd",
+    "target": 340
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Bakrime IVCS Ltd (WGH)",
+    "target": 364
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Cambda IVCS Ltd",
+    "target": 280
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Chokchim IVCS Ltd",
+    "target": 313
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Homeland IVCS Ltd.",
+    "target": 350
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Kalchengpara IVCS Ltd",
+    "target": 395
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Kucholsan IVCS Ltd (WGH)",
+    "target": 172
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Kumonggrika IVCS Ltd",
+    "target": 437
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Nangrimesa IVCS Ltd",
+    "target": 290
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Radorik IVCS Ltd",
+    "target": 543
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Selsella",
+    "ivcs": "Shidakandi Bowabari IVCS Ltd",
+    "target": 495
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Bakrime IVCS Ltd",
+    "target": 150
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Chibasal IVCS Ltd (Tikrikilla)",
+    "target": 208
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Chichang IVCS Ltd",
+    "target": 309
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "DKJB Union IVCS Ltd",
+    "target": 270
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Jakusan IVCS Ltd (Tikrikilla)",
+    "target": 269
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Jangrapara IVCS Ltd",
+    "target": 530
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Kissan IVCS Ltd",
+    "target": 60
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Krimko IVCS Ltd (Tikrikilla)",
+    "target": 268
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Migasal IVCS Ltd",
+    "target": 337
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Naguapara IVCS Ltd",
+    "target": 192
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Pedaldoba IVCS Ltd",
+    "target": 204
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Renggigre IVCS Ltd",
+    "target": 476
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Rengsinpara IVCS Ltd",
+    "target": 387
+  },
+  {
+    "region": "Garo Hills",
+    "district": "West Garo Hills",
+    "block": "Tikrikilla",
+    "ivcs": "Saldoa IVCS Ltd",
+    "target": 279
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Byndihati IVCS Ltd",
+    "target": 257
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Byrwai IVCS Ltd",
+    "target": 322
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Cham Cham IVCS Ltd",
+    "target": 432
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Iapmala IVCS Ltd",
+    "target": 330
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Iongkaluh IVCS Ltd",
+    "target": 510
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Jalaphet Bri Sumer IVCS Ltd.",
+    "target": 222
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Jalyiah IVCS Ltd",
+    "target": 643
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Lawei Phyrnai IVCS Ltd",
+    "target": 109
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Lumshyrmit IVCS Ltd",
+    "target": 296
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Moolamanoh IVCS Ltd.",
+    "target": 131
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Mukhaialong IVCS Ltd",
+    "target": 345
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Mutong IVCS Ltd",
+    "target": 258
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Pamrakmai IVCS Ltd",
+    "target": 154
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Rangad IVCS Ltd",
+    "target": 339
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Shirup U Krehlang IVCS Ltd",
+    "target": 143
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Sohkymphor Mission IVCS Ltd",
+    "target": 499
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Suchen IVCS Ltd",
+    "target": 152
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Thmu Deimiat Hingaria IVCS Ltd",
+    "target": 171
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Tuber Kmaishnong IVCS Ltd",
+    "target": 171
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Tubershohshrieh IVCS Ltd",
+    "target": 329
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Tyllilang IVCS Ltd (EJH)",
+    "target": 303
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Umkiang IVCS Ltd",
+    "target": 127
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Khliehriat",
+    "ivcs": "Wahsarang IVCS Ltd",
+    "target": 134
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Jaintia Hills",
+    "block": "Saipung",
+    "ivcs": "Narwan IVCS Ltd",
+    "target": 245
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Diengkynthong IVCS Ltd",
+    "target": 50
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Kyrdemkhla IVCS Ltd",
+    "target": 80
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Laitlyndop IVCS Ltd",
+    "target": 50
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Laitmawroh Ramkheng IVCS Ltd",
+    "target": 154
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Mawbeh IVCS Ltd",
+    "target": 149
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Mawlyndiar IVCS Ltd",
+    "target": 150
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Mawmihthied IVCS Ltd",
+    "target": 166
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Mawrah-Rangtmah IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Nongthymmai Lumthangding IVCS Ltd",
+    "target": 250
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Sohrarim IVCS Ltd",
+    "target": 103
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Khatarshnong Laitkroh",
+    "ivcs": "Umdiengpoh Laitthemlangsah IVCS Ltd",
+    "target": 118
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawkynrew",
+    "ivcs": "Jatah Nonglyer IVCS",
+    "target": 200
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawkynrew",
+    "ivcs": "Laitkyrhong IVCS Ltd",
+    "target": 500
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawlai",
+    "ivcs": "Iaryntihlang (FACT) IVCS Ltd",
+    "target": 125
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawpat",
+    "ivcs": "Nongmensong IVCS Ltd",
+    "target": 161
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Dongiewrim IVCS Ltd",
+    "target": 165
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Kyiem IVCS Ltd",
+    "target": 352
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Laitnongrim Nangkiew Shaphrang IVCS Ltd",
+    "target": 203
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Pyndengkhah IVCS Ltd",
+    "target": 209
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Pyndenglitha IVCS Ltd",
+    "target": 200
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawphlang",
+    "ivcs": "Wahsohlait IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawsynram",
+    "ivcs": "Phlang Mawsyrpad IVCS Ltd",
+    "target": 190
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mawsynram",
+    "ivcs": "Tehsongkawei IVCS Ltd",
+    "target": 190
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Mylliem",
+    "ivcs": "Rangbihbih IVCS Ltd",
+    "target": 139
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Pynursla",
+    "ivcs": "Lapalang IVCS Ltd",
+    "target": 80
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Pynursla",
+    "ivcs": "Nongshken IVCS Ltd",
+    "target": 250
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Pynursla",
+    "ivcs": "Pynter IVCS Ltd.",
+    "target": 141
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Pynursla",
+    "ivcs": "Wahkdait IVCS Ltd",
+    "target": 120
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Laittyra IVCS Ltd",
+    "target": 235
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Mawkisyiem IVCS Ltd",
+    "target": 158
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Mustoh IVCS Ltd",
+    "target": 195
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Nongduh IVCS Ltd",
+    "target": 120
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Saitsohpen IVCS Ltd.",
+    "target": 129
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Shella Bholaganj",
+    "ivcs": "Suktia inc Diengsiar IVCS Ltd",
+    "target": 130
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Jabar Lumtop Jaud IVCS Ltd",
+    "target": 186
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Jamynthlen IVCS Ltd",
+    "target": 90
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Jingiatreilang IVCS Ltd",
+    "target": 136
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Krang Nonglum IVCS Ltd",
+    "target": 136
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Lumlang IVCS Ltd",
+    "target": 121
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Mawlum Rum Nangkyntiew IVCS Ltd",
+    "target": 177
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Mawmaram IVCS Ltd",
+    "target": 384
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Mawthlong Mynsain IVCS Ltd",
+    "target": 272
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Mawthwan IVCS Ltd",
+    "target": 135
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "East Khasi Hills",
+    "block": "Sohiong",
+    "ivcs": "Nongur IVCS Ltd",
+    "target": 232
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Ksehkohmoit IVCS Ltd",
+    "target": 140
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Mawblei IVCS Ltd",
+    "target": 122
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Mawlyntriang IVCS Ltd",
+    "target": 142
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Mawnai IVCS Ltd",
+    "target": 144
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Nongrmai IVCS Ltd",
+    "target": 139
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mairang",
+    "ivcs": "Rikhen IVCS Ltd",
+    "target": 126
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Mawkamoit IVCS Ltd",
+    "target": 276
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Mawkohngei IVCS Ltd",
+    "target": 139
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Mawlangren IVCS Ltd",
+    "target": 101
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Nangkiew Mawlangkhar IVCS Ltd",
+    "target": 106
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Nonglait IVCS Ltd",
+    "target": 163
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Suk Ban Rep IVCS Ltd",
+    "target": 551
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Eastern West Khasi Hills",
+    "block": "Mawthadraishan",
+    "ivcs": "Tur Shaphrang IVCS Ltd",
+    "target": 119
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Bhoirymbong",
+    "ivcs": "Kynhun Dorbar Umktieh IVCS Ltd",
+    "target": 226
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Bhoirymbong",
+    "ivcs": "Pynimlang IVCS Ltd",
+    "target": 128
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Jirang",
+    "ivcs": "Ialumlang IVCS Ltd",
+    "target": 100
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Jirang",
+    "ivcs": "Mynnar Jirang IVCS Ltd",
+    "target": 104
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Jirang",
+    "ivcs": "Umtangar IVCS Ltd",
+    "target": 93
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Jirang",
+    "ivcs": "Wahsynnon IVCS Ltd.",
+    "target": 129
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Kuswai Area IVCS Ltd",
+    "target": 125
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Marmain IVCS Ltd",
+    "target": 281
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Mawkangi Synroplang IVCS Ltd.",
+    "target": 200
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Mawlong Nongtluh IVCS Ltd",
+    "target": 461
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Mawphrow IVCS Ltd",
+    "target": 161
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Niangbari Service Cooperative Society Ltd.",
+    "target": 212
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Nongkhrah IVCS Ltd",
+    "target": 207
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Nonglyngdoh IVCS Ltd",
+    "target": 154
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Pillingkata-B IVCS Ltd",
+    "target": 316
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Sarikushi IVCS Ltd",
+    "target": 150
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Shangbangla IVCS Ltd",
+    "target": 185
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Sohlait IVCS Ltd",
+    "target": 195
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Umkon IVCS Ltd",
+    "target": 315
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Umling IVCS Ltd",
+    "target": 140
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Umsaw Nongbri IVCS Ltd",
+    "target": 304
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Umshaken IVCS Ltd",
+    "target": 203
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umling",
+    "ivcs": "Umwang Pyllun IVCS Ltd",
+    "target": 192
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umsning",
+    "ivcs": "Mait shaphrang IVCS Ltd",
+    "target": 118
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "Ri Bhoi",
+    "block": "Umsning",
+    "ivcs": "Sonidan Service Cooperative Society Ltd.",
+    "target": 240
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Mawkyrwat",
+    "ivcs": "Mawlangwir  IVCS Ltd.",
+    "target": 167
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Mawkyrwat",
+    "ivcs": "Mawthawiang Nongtraw IVCS Ltd",
+    "target": 118
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Mawkyrwat",
+    "ivcs": "Rangblang Sohsynniang IVCS Ltd.",
+    "target": 117
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Mawkyrwat",
+    "ivcs": "Shngimawlein Nongbrei Nongdom IVCS Ltd",
+    "target": 180
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Mawkyrwat",
+    "ivcs": "Warsanlyngdoh IVCS Ltd",
+    "target": 150
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Iaikyrsoi IVCS Ltd",
+    "target": 114
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Iamonlang IVCS Ltd",
+    "target": 65
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Keniong IVCS Ltd",
+    "target": 208
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Khonjoy IVCS Ltd",
+    "target": 394
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Kuparstar IVCS Ltd",
+    "target": 244
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Lower Rajapara IVCS Ltd",
+    "target": 30
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Mattilang IVCS Ltd",
+    "target": 284
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "N.W.E. Rangasora IVCS Ltd",
+    "target": 296
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Nongkdait Nongtwah IVCS Ltd",
+    "target": 430
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Phlangdiloin IVCS Ltd",
+    "target": 177
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Raibah IVCS Ltd",
+    "target": 160
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "Sarin IVCS Ltd",
+    "target": 183
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "South West Khasi Hills",
+    "block": "Ranikor",
+    "ivcs": "United Three Villages IVCS Ltd.",
+    "target": 244
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Jarain IVCS Ltd",
+    "target": 131
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Khonglah IVCS Ltd",
+    "target": 359
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Lakroh IVCS Ltd",
+    "target": 138
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Moosakhia IVCS Ltd",
+    "target": 165
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Pamtbuh IVCS Ltd",
+    "target": 292
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Amlarem",
+    "ivcs": "Shkenpyrsit IVCS Ltd",
+    "target": 134
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Barato IVCS Ltd",
+    "target": 227
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Chiruplang Sahsniang IVCS Ltd",
+    "target": 121
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Iakrehlang Saphai IVCS Ltd",
+    "target": 166
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Iakyntulang IVCS Ltd",
+    "target": 159
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Iurim IVCS Ltd",
+    "target": 116
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Khliehrangnah IVCS Ltd",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Kynronglang Umsalait IVCS Ltd.",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Madankynsaw IVCS Ltd",
+    "target": 118
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Mowtyrshiah B IVCS Ltd",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Mukhap IVCS Ltd",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Pynkulang IVCS Ltd",
+    "target": 110
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Shiruplang Mynska IVCS Ltd",
+    "target": 174
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Thadmuthlong IVCS Ltd.",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Laskein",
+    "ivcs": "Unity Ventures Khlookynrien IVCS Ltd",
+    "target": 124
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Namdong",
+    "ivcs": "Ksehrynshang IVCS Ltd",
+    "target": 102
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Namdong",
+    "ivcs": "Moobakhon IVCS Ltd",
+    "target": 152
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Namdong",
+    "ivcs": "Namdong A IVCS Ltd",
+    "target": 295
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Namdong",
+    "ivcs": "Namdong B IVCS Ltd",
+    "target": 301
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Namdong",
+    "ivcs": "Nongrim Bambthong IVCS Ltd",
+    "target": 333
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Larnai IVCS Ltd",
+    "target": 156
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Madur IVCS Ltd",
+    "target": 305
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Mukhla Nongrim IVCS Ltd",
+    "target": 322
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Mynsngat IVCS Ltd",
+    "target": 489
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Niriang IVCS Ltd",
+    "target": 274
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Thadmusem IVCS Ltd",
+    "target": 133
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Umlangshor IVCS Ltd",
+    "target": 241
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Jaintia Hills",
+    "block": "Thadlaskein",
+    "ivcs": "Wahiajer IVCS Ltd",
+    "target": 237
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Doranggre IVCS Ltd",
+    "target": 135
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Hope IVCS Ltd",
+    "target": 140
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Hynriew Shnong Nongmisei IVCS Ltd",
+    "target": 171
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Ktieh Thawiar IVCS Ltd",
+    "target": 225
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Kyrdum IVCS Ltd",
+    "target": 127
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Langpih IVCS Ltd",
+    "target": 121
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Langumshing A IVCS Ltd",
+    "target": 301
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Mawdonglang IVCS Ltd",
+    "target": 311
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Mawkynrum IVCS Ltd.",
+    "target": 201
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Mawtynrong IVCS Ltd",
+    "target": 109
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Nengchigre IVCS Ltd",
+    "target": 248
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Nongdaju IVCS Ltd",
+    "target": 289
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Nonglang IVCS Ltd",
+    "target": 320
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Nongriangka Weilong IVCS Ltd",
+    "target": 101
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Nongsleh Mawsaw IVCS Ltd.",
+    "target": 174
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Rongkhugre IVCS Ltd",
+    "target": 303
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Seinduli IVCS Ltd",
+    "target": 259
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Songsak IVCS Ltd",
+    "target": 333
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Umsohpieng Myndo IVCS Ltd",
+    "target": 147
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Umtap Area IVCS Ltd",
+    "target": 126
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Mawshynrut",
+    "ivcs": "Umthlu IVCS Ltd",
+    "target": 197
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Nongstoin",
+    "ivcs": "Nonglwai IVCS Ltd",
+    "target": 170
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Nongstoin",
+    "ivcs": "Pyndenglawar IVCS Ltd",
+    "target": 121
+  },
+  {
+    "region": "Khasi & Jaintia Hills",
+    "district": "West Khasi Hills",
+    "block": "Nongstoin",
+    "ivcs": "Sangriang IVCS Ltd",
+    "target": 162
+  }
+]
